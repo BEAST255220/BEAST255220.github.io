@@ -163,6 +163,15 @@ a.nav-link{
       projects
 ──────────────────*/
 
+#home{ 	
+	margin: auto;
+	height: 100vh;
+	color: var(--main-fonts-color);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
 
 	
 #home .filter{
